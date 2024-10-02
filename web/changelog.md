@@ -2,7 +2,6 @@
 layout: "default"
 title: "Changelog"
 ---
-
 <div class='section-header'>
 	<span class='glyphicon glyphicon-tag'></span>
 	Botania Changelog
